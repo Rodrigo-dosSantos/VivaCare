@@ -101,6 +101,8 @@ Melhorar a interface gráfica.
 Deploy do aplicativo para que outros possam usar sem rodar localmente (ex: Streamlit Cloud, Hugging Face Spaces).
 Agradecimentos
 Um agradecimento especial à Alura e ao Google Gemini pela Imersão IA Alura + Google Gemini, que forneceu os conhecimentos e ferramentas essenciais para desenvolver este projeto.
+
+
 Autor
 Rodrigo dos Santos
 linkedin.com/in/rodrigo-dosantos
