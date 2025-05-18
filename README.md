@@ -1,5 +1,6 @@
 
 Assistente VivaCare 💚
+
 Um assistente conversacional inteligente para pacientes e cuidadores de transplante de órgãos.
 Sobre o Projeto
 Este projeto é um chatbot desenvolvido com Inteligência Artificial Generativa (Google Gemini) e o framework Streamlit para criar uma interface gráfica amigável. O objetivo é fornecer informações acessíveis e de apoio a pessoas que passaram ou estão passando por um processo de transplante de órgãos, como pacientes, familiares e cuidadores.
